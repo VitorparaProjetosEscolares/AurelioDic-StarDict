@@ -2,7 +2,7 @@
 <h2>Se houver qualquer problema autoral ou de copyright eu retiro esse repositório imediatamente</h2>
 
 <h2>Qual é o intuito desse repositório?</h2>
-<p>Os dicionários contidos dentro do KoReader não são eficientes para as minhas leituras em português brasileiro, então, consegui fazer com que o dicionário do Marco Aurélio funcionasse dentro do KoReader! Utilizando esse <a href="https://archive.org/details/dicionariospt">Diretório</a> do Internet Archive, e a ferramenta de conversão PyGlossary</p>
+<p>Os dicionários contidos dentro do KoReader não são eficientes para as minhas leituras em português brasileiro, então, consegui fazer com que o dicionário do Marco Aurélio funcionasse dentro do KoReader! Utilizando esse <a href="https://archive.org/details/dicionariospt">Diretório</a> do Internet Archive, e a ferramenta de conversão <a href="https://github.com/ilius/pyglossary">PyGlossary</a></p>
 
 <h2>Como instalar o dicionário no seu KoReader</h2>
 
